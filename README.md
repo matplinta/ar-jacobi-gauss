@@ -1,3 +1,4 @@
-# Sprawozdanie Jacobi, Gauss, pamięć współdzielona i rozproszona
-
-[LINK](charts.ipynb)
+# Sprawozdanie
+## Metody: Jacobi, Gauss
+### Pamięć współdzielona i rozproszona
+Wykresy [LINK](charts.ipynb)
