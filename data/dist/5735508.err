@@ -1,0 +1,7 @@
+ plgrid/tools/gcc/5.4.0 loaded.
+ plgrid/tools/intel/18.0.0 loaded.
+ plgrid/tools/impi/2018 loaded.
+ plgrid/tools/chapel/1.20.0 loaded.
+mv: cannot create regular file `jacobi_distributed': File exists
+gmake: *** [/mnt/lustre/scratch2/people/plgplinta/slurm_jobdir/5735508/tmp/chpl-plgplinta-19652.deleteme/jacobi_distributed.tmp] Error 1
+error: compiling generated source

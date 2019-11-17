@@ -1,0 +1,11 @@
+ plgrid/tools/gcc/5.4.0 loaded.
+ plgrid/tools/intel/18.0.0 loaded.
+ plgrid/tools/impi/2018 loaded.
+ plgrid/tools/chapel/1.20.0 loaded.
+mv: preserving times for `jacobi_shared_real': Stale file handle
+mv: setting attribute `lustre.lov' for `lustre.lov': Stale file handle
+mv: preserving permissions for `jacobi_shared_real': Stale file handle
+mv: closing `jacobi_shared_real': Permission denied
+gmake[1]: *** [all] Error 1
+gmake: *** [/mnt/lustre/scratch2/people/plgplinta/slurm_jobdir/5735505/tmp/chpl-plgplinta-53787.deleteme/jacobi_shared.tmp] Error 2
+error: compiling generated source

@@ -1,0 +1,5 @@
+ plgrid/tools/gcc/5.4.0 loaded.
+ plgrid/tools/intel/18.0.0 loaded.
+ plgrid/tools/impi/2018 loaded.
+ plgrid/tools/chapel/1.20.0 loaded.
+/bin/env: /mnt/auto/people/plgplinta/AR/LAB04/zad/./jacobi_shared_real: Permission denied
